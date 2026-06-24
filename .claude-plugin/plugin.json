@@ -1,0 +1,11 @@
+{
+  "name": "hr-plugin",
+  "displayName": "Agent HR",
+  "version": "0.1.0",
+  "description": "멀티 에이전트 조직의 로스터를 적정 규모로 검토하는 인사(HR) 플러그인. 유휴 정리, 과부하 분산, 채용을 권고만 한다(승인 게이트 통과).",
+  "author": { "name": "rara-band" },
+  "license": "MIT",
+  "homepage": "https://github.com/rara-band/hr-plugin",
+  "repository": "https://github.com/rara-band/hr-plugin",
+  "keywords": ["agents", "multi-agent", "hr", "org-design", "roster"]
+}

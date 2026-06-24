@@ -1,0 +1,12 @@
+{
+  "name": "rara-band",
+  "owner": { "name": "rara-band" },
+  "metadata": { "description": "rara-band의 에이전트 도구 마켓플레이스." },
+  "plugins": [
+    {
+      "name": "hr-plugin",
+      "source": "./",
+      "description": "에이전트 조직 인사(HR) 검토 플러그인. 유휴 정리, 과부하 분산, 채용 권고."
+    }
+  ]
+}
