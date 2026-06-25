@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Agent HR 활성 — 로스터 인력 균형이 의심되면 /hr-review 로 검토(권고만, 승인 게이트). doctrine·계약: AGENTS.md'"
+          }
+        ]
+      }
+    ]
+  }
+}
